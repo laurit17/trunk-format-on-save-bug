@@ -1,0 +1,10 @@
+#pragma once
+
+// asdlfkjasdflkasdjfalsdkfjasdlfkjasdlfkjasdflkajsdflkajsdflkajsdflakjsdflaksjdflaksjdfalsdkfj
+// asdlfkjasdflkasdjfalsdkfjasdlfkjasdlfkjasdflkajsdflkajsdflkajsdflakjsdflaksjdflaksjdfalsdkfj
+// asdlfkjasdflkasdjfalsdkfjasdlfkjasdlfkjasdflkajsdflkajsdflkajsdflakjsdflaksjdflaksjdfalsdkfj
+namespace foo {
+
+void Foo();
+
+}  // namespace foo
