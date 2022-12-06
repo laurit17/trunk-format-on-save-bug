@@ -1,8 +1,6 @@
 #pragma once
 
-// asdlfkjasdflkasdjfalsdkfjasdlfkjasdlfkjasdflkajsdflkajsdflkajsdflakjsdflaksjdflaksjdfalsdkfj
-// asdlfkjasdflkasdjfalsdkfjasdlfkjasdlfkjasdflkajsdflkajsdflkajsdflakjsdflaksjdflaksjdfalsdkfj
-// asdlfkjasdflkasdjfalsdkfjasdlfkjasdlfkjasdflkajsdflkajsdflkajsdflakjsdflaksjdflaksjdfalsdkfj
+// abcdef abcdef abcdef
 namespace foo {
 
 void Foo();
